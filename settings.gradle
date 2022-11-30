@@ -1,0 +1,3 @@
+rootProject.name = "ConvertMainThread"
+include ':app'
+include ':ConvertMainThread'
